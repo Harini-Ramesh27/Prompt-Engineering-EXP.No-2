@@ -22,4 +22,6 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 OUTPUT:
 
+[HARINI R_212225060080_PROMPT ASSESSMENT_2.pdf](https://github.com/user-attachments/files/28661003/HARINI.R_212225060080_PROMPT.ASSESSMENT_2.pdf)
+
 RESULT:
